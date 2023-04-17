@@ -1,0 +1,4 @@
+	Esta foi a minha maior motivação para voltar a programar depois de ficar mais de vinte anos distante disso.
+	Em 2019, por necessidade de uma amiga de minha mulher, que  queria criar uma criptomoeda, e estava disposta a pagar os custos em Ether para desenvolvimento de um tokem inicial, tive que aprender em menos de um mês Solidity para fazer os dois Tokens conforme as especificações dela, e como cada vez ela queria mudar uma coisa, e por eu não saber nada das linguagens atuais de Blockchain, ela convocou um “especialista”, que entregou um código cheio de erros, que não rodava, nem passava em testes básicos, que eu tive que verificar e corrigir, dado que ele não aceitava que o código dele não passava nos testes, nas duas tentativas que ele fez.
+	Até então eu estudava sem muito afinco e movido pela curiosidade insistente por tecnologia.
+	A empreitada acabou, devido a desistência dela.
